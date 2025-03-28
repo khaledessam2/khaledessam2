@@ -9,11 +9,17 @@
 
 ###
 
+<br clear="both">
+
+<h3 align="left">my skills</h3>
+
+###
+
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM5OGw3N2Q2Z2UzNTM5NTBheHFwZm50YjZ3dHhrNHRnaTMzd3JsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="57" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="57" alt="css3 logo"  />
