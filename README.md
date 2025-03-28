@@ -40,12 +40,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/khaledessam2/khaledessam2/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/khaledessam2/count.svg?"  />
 </div>
