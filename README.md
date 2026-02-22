@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">my skills</h3>
 
 ###
